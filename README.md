@@ -8,12 +8,12 @@ Blood smear classification is challenging due to high intra-class variability an
 
 While designing and implementing our solution, we explored:
 
-1. Dataset cleaning and Outlier analysis
+1. Dataset cleaning and analysis
 2. Data Augmentation
 3. Custom Convolutional Neural Networks
 4. Hyperparameter Tuning
 5. Cross-validation
-6. Transfer Learning (ImageNet)
+6. Transfer Learning
 7. Test Time Augmentation
 
 The model performance was evaluated through accuracy on a private test set.
