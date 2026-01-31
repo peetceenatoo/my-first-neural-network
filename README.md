@@ -10,7 +10,7 @@ While designing and implementing our solution, we explored:
 
 1. Dataset cleaning and analysis
 2. Data Augmentation
-3. Custom Convolutional Neural Networks
+3. Convolutional Neural Networks
 4. Hyperparameter Tuning
 5. Cross-validation
 6. Transfer Learning
